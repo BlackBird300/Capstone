@@ -28,35 +28,19 @@ The ARIMA-LSTM hybrid model provides enhanced accuracy in predicting WACC, which
    ```bash
    git clone https://github.com/BlackBird300/Capstone.git
    ```
-
-2. **Navigate to the Notebook Directory**:
-   ```bash
-   cd Capstone-Implementation/Capstone_Notebook
-   ```
-
-3. **Open the Notebook**:
-   Use Jupyter Notebook or any compatible IDE to open the file `Capstone_Exp.ipynb`.
-
-4. **Run the Notebook**:
-   Follow the step-by-step instructions in the notebook. Ensure that all required libraries are installed.
-
-5. **Dependencies**:
-   - pandas
-   - numpy
-   - matplotlib
-   - seaborn
-   - scipy
-   - statsmodels
-   - sklearn
-   - tensorflow
-   
-   **Install Required Libraries**
-Run the following command to install dependencies before running the program:
+ 2.  **Install Required Libraries**
+Run the following command to install dependencies before running the program (it includes also the dependencies for the second component):
 
 ```bash
 pip install -r requirements.txt
 ```
+3. **Navigate to the Notebook Directory**:
+   ```bash
+   cd Capstone-Implementation/Capstone_Notebook
+   ```
 
+4. **Open the Notebook and Run the Cells**:
+   Use Jupyter Notebook or any compatible IDE to open the file `Capstone_Exp.ipynb`.
 ---
 
 ## Component 2: Company Peer Comparables Finder
@@ -78,7 +62,7 @@ This tool helps identify and analyze comparable companies based on clustering al
    ```
 
 2. **Set Up the Backend**:
-   Navigate to the backend directory and start the Django server:
+   Navigate to the backend directory and start the Django server and wait until the server is ready:
    ```bash
    cd Capstone-Implementation/financial_analysis_project
    python manage.py runserver
@@ -107,29 +91,16 @@ This tool helps identify and analyze comparable companies based on clustering al
 ---
 ![image](https://github.com/user-attachments/assets/80e5270d-bc03-497d-99aa-aedb513dc09f)
 
-## Installation
 
 ### Prerequisites
 - Python
 - Git
 
-
-
-### Requirements
-A `requirements.txt` file is included, which contains the following libraries:
-```plaintext
-pandas
-numpy
-matplotlib
-seaborn
-scipy
-statsmodels
-sklearn
-tensorflow
-django
-```
-
 ---
+
+### Demo:
+
+https://drive.google.com/file/d/1YhM6MnjMmBnTXxh0jJ3XWUovhGPEzPeF/view?usp=drive_link
 
 ## Contributions
 Contributions are welcome. Please fork the repository and submit a pull request for any improvements or bug fixes.
