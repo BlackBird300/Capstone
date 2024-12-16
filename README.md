@@ -1,6 +1,6 @@
-# Comprehensive README File
 
-## Project Title: **Novel Approach for Estimation and Forecast of the Weighted Average Cost of Capital Using ARIMA, LSTM, and Hybrid Model + Company Peer Comparables Finder**
+
+## **Novel Approach for Estimation and Forecast of the Weighted Average Cost of Capital Using ARIMA, LSTM, and Hybrid Model + Company Peer Comparables Finder**
 
 ### Objective
 This project is divided into two components:
