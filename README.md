@@ -105,6 +105,7 @@ This tool helps identify and analyze comparable companies based on clustering al
    - `comparables/Comparables_Algorithms/`: Core algorithms for clustering and DTW.
 
 ---
+![image](https://github.com/user-attachments/assets/80e5270d-bc03-497d-99aa-aedb513dc09f)
 
 ## Installation
 
